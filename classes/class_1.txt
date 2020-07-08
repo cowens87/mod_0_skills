@@ -1,0 +1,14 @@
+Class: Event Rooms
+
+Attributes:
+room_name (string)
+current_room_capacity (integer)
+drinks_included (boolean)
+food_menu_options (array)
+total_room_capacity (integer)
+
+Methods:
+change_room (will change the room_name)
+available_capacity (total_room_capacity-current_room_capacity)
+include_drinks (will toggle drinks_included to true)
+add_food (will add food items into the food_menu_options array)
