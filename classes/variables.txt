@@ -1,0 +1,9 @@
+food = "needed to live"
+is_delicious = true
+food = "amazing to eat"
+num2 = 6
+num7 = 8
+quotient = 1.33
+songs = ["Hello", "Happy Days", "Gone"]
+list.splice (0,0)
+str.count(amazing to eat)
