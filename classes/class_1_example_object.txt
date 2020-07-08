@@ -1,0 +1,14 @@
+Instance: Anniversary Event Room
+
+Attributes:
+room_name:  "Gold"
+current_room_capacity: 250
+includes_drinks: false
+food_menu_options: ["Potatoes", "Salmon", "Broccolini"]
+total_room_capacity: 500
+
+Methods:
+change_room: "Silver"
+available_capacity: 250
+include_drinks: includes_drinks= true
+add_food: ["Potatoes", "Salmon", "Broccolini", "Chocolate Lava Cake"]
