@@ -3,7 +3,7 @@ Class: Event Rooms
 Attributes:
 room_name (string)
 current_room_capacity (integer)
-drinks_included (boolean)
+includes_drinks (boolean)
 food_menu_options (array)
 total_room_capacity (integer)
 
