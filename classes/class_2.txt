@@ -1,0 +1,13 @@
+Class: Employees
+
+Attributes:
+current_manager (string)
+number_of_employees (integer)
+is_hiring (boolean)
+staff_roster (array)
+
+Methods:
+change_manager (will change current_manager)
+fire (will decrease the number_of_employees)
+is_hiring (will toggle is_hiring to true)
+hire_staff (will add one person to the staff_roster)
