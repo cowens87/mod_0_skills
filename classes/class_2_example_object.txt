@@ -1,0 +1,13 @@
+Instance: Hostess
+
+Attributes:
+current_manager: "Laura"
+number_of_employees: 4
+is_hiring: false
+staff_roster: ["Megan", "Paul", "Lisa", "Laura"]
+
+Methods:
+change_manager:"Lisa"
+fire_one: 3 (will decrease the number_of_employees)
+is_hiring: is_hiring =true
+hire_staff:  ["Megan", "Paul", "Lisa", "Laura", "Marcus"]
