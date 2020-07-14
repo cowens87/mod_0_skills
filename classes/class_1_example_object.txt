@@ -1,4 +1,4 @@
-Instance: Anniversary Event Room
+Instance: anniversary_event_room
 
 Attributes:
 room_name:  "Gold"
